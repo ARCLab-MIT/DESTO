@@ -5,7 +5,7 @@ Copyright © 2021 by David Gondelach and Richard Linares
 
 
 ### License
-This code is licensed under the GNU General Public License version 3 - see the [LICENSE](LICENSE) file for details.
+This code is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 ### Acknowledgments
