@@ -25,7 +25,7 @@ function [ SWmatDaily, SWmatMonthlyPred ] = inputSWtiegcm( swfName )
 fid = fopen(swfName,'r+');
 
 % Skip initial lines
-for i=1:17
+for i=1:15
     fgetl(fid);
 end
 

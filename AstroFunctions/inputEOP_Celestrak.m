@@ -20,7 +20,7 @@ function [ EOPMat ] = inputEOP_Celestrak( EOPfilename )
 fid = fopen(EOPfilename, 'r');
 
 % Skip initial lines
-for i=1:34
+for i=1:22
     fgetl(fid);
 end
 

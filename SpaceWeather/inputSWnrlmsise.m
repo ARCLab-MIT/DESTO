@@ -26,7 +26,7 @@ function [ SWmatDaily, SWmatMonthlyPred ] = inputSWnrlmsise( swfName )
 fid = fopen(swfName,'r+');
 
 % Get rid of initial lines
-for i=1:17
+for i=1:15
     fgetl(fid);
 end
 
